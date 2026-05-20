@@ -23,6 +23,10 @@ tags:
   - Brands
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/hasbro
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hasbro
   - type: Website
     url: https://www.hasbro.com
   - type: Corporate
