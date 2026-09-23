@@ -1,7 +1,9 @@
 ---
 title: 'Hasbro CEO: ''We''re beyond experimentation'' with AI'
 url: https://www.retaildive.com/news/hasbro-ceo-ai-toys/812500/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hasbro" press release artificial intelligence'
 position: 1
 source: serpapi-google

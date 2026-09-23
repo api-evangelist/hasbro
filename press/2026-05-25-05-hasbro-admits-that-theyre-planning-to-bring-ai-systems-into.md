@@ -1,7 +1,9 @@
 ---
 title: Hasbro admits that they're planning to bring AI systems into ...
 url: https://www.reddit.com/r/dndnext/comments/15em0kp/hasbro_admits_that_theyre_planning_to_bring_ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hasbro" press release artificial intelligence'
 position: 5
 source: serpapi-google
